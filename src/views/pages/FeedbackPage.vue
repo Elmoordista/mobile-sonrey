@@ -6,7 +6,7 @@
                         <ion-item lines="none" class="header-title-wrapper no-bg">
                             <ion-img slot="start" src="assets/img/feedback-icon.png" class="ion-no-margin icon"/>
                             <p>
-                                Feedback
+                                Feedback Page
                             </p>
                         </ion-item>
                     </ion-col>
